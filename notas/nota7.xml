@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe>
+        <ide>
+            <dhEmi>2025-12-23T10:00:00-03:00</dhEmi>
+        </ide>
+        <emit>
+            <CNPJ>00000000000007</CNPJ>
+            <xNome>Empresa de Exemplo 7</xNome>
+        </emit>
+        <total>
+            <ICMSTot>
+                <vNF>337.15</vNF>
+            </ICMSTot>
+        </total>
+    </infNFe>
+</NFe>

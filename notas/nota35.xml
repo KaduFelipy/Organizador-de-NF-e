@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe>
+        <ide>
+            <dhEmi></dhEmi>
+        </ide>
+        <emit>
+            <CNPJ>00000000000035</CNPJ>
+            <xNome>Empresa de Exemplo 35</xNome>
+        </emit>
+        <total>
+            <ICMSTot>
+                <vNF>1273.40</vNF>
+            </ICMSTot>
+        </total>
+    </infNFe>
+</NFe>

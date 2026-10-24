@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe>
+        <ide>
+            <dhEmi>2026-02-26T10:00:00-03:00</dhEmi>
+        </ide>
+        <emit>
+            <CNPJ>00000000000012</CNPJ>
+            <xNome>Empresa de Exemplo 12</xNome>
+        </emit>
+        <total>
+            <ICMSTot>
+                <vNF>524.40</vNF>
+            </ICMSTot>
+        </total>
+    </infNFe>
+</NFe>

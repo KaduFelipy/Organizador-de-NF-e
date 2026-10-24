@@ -1,0 +1,12 @@
+env/
+venv/
+.env
+.venv
+
+#Cache do python
+__pycache__/
+*.pyc
+
+#Arquivos gerados pelo programa
+organizadas/
+resumo.csv
