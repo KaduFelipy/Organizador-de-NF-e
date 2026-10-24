@@ -98,7 +98,10 @@ for arquivo in os.listdir('notas'):
             'Destino': arquivo_destino
         })
 
-tabela = pd.DataFrame(notas)
+tabela = pd.DataFrame(
+    notas,
+    columns=['Arquivo', 'Nome', 'CNPJ','Data','Valor','Destino']
+    )
 
 # print (tabela)
 
@@ -110,4 +113,3 @@ tabela.to_csv(
     sep=';',
     encoding='utf-8-sig',
 )
-

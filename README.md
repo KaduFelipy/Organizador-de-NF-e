@@ -56,6 +56,16 @@ O projeto inclui exemplos fictícios, inclusive arquivos com erros para demonstr
 python leitor.py
 ```
 
+## Validação manual
+
+Execute `python leitor.py` com os XMLs fictícios e confira:
+
+- Notas válidas são organizadas e incluídas no CSV.
+- XMLs malformados, campos vazios, datas impossíveis e valores inválidos são rejeitados.
+- Uma nova execução não sobrescreve XMLs existentes.
+- Sem notas aceitas, o CSV mantém os cabeçalhos.
+
+
 ## Estrutura
 
 ```text
